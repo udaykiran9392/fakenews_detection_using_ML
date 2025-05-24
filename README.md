@@ -79,7 +79,7 @@ Assessed model using:
 | 🧠 NLP Techniques      | NLTK, Stopword Removal, Stemming, TF-IDF Vectorization               |
 | 🤖 ML Algorithms       | Logistic Regression, PassiveAggressiveClassifier, Naive Bayes, SVM   |
 | 🧪 Evaluation Metrics | Accuracy, Precision, Recall, F1-Score, Confusion Matrix              |
-| 🛠️ Environment        | Google Colab, Google Drive                                            |
+| 🛠️ Environment        | Jupyter Notebook / Google Colab, Google Drive                                            |
 
 
 
